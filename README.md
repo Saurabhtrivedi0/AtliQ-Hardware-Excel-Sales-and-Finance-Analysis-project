@@ -18,19 +18,25 @@ I completed a sales performance analysis project during the Codebasics Data Anal
 ➡️ Compare net sales vs. targets to uncover gaps and realign strategies for underperforming regions.
 
 **📌 Key Insights:**
+
 - Top Products: AQ Mx NB saw 5,723% growth; AQ Trigger Ms generated $17.9M in sales.
 - Top Customers: Amazon ($82M) and Integration Stores (887% growth) led revenue.
+
 Market Performance:
 - India: Highest revenue ($161.26M), but -5.9% below target.
 - Poland: Underperformed at -18.1% vs. target.
 - Divisional Growth: PC Division up 413.7%, driving overall success.
  
 **💡 Outcomes & Recommendations:**
+
 ✅ Scale high-performing products and strengthen top customer partnerships.
+
 ✅ Reassess strategies in underperforming regions (e.g., Poland).
+
 ✅ Invest in high-growth categories like PCs.
  
 **🌟 Final Thoughts:**
+
 This project sharpened my skills in data modeling, transformation, and business insight generation using Excel.
 
 ----
@@ -57,28 +63,36 @@ AtliQ Hardware needed financial clarity on:
 Top Markets:
 France (GM%: 43.3%), Japan (44.7%), New Zealand (45.0%)
 These countries consistently delivered strong margins.
+
 Challenges:
 Germany (29.9%) and Austria (30.0%) underperformed, hinting at cost or pricing inefficiencies.
 
 - Quarterly Trends
 Strong Start, Weak Finish:
 ANZ and ROA maintained ~42–44% GM in 2019 but declined to ~38% by 2021.
+
 India's GM% Drop:
 Fell from 42.4% in 2019 to 32.0% in 2021, likely due to rising COGS or market pressure.
 
 - Monthly & Fiscal Year Analysis
+
 Seasonality:
 Q4 (Dec–Feb) consistently delivered peak revenue (e.g., $29.9M in Dec 2020).
+
 Explosive Growth in 2021:
 India: +224% net sales; China: +322% — but rising COGS (e.g., India’s COGS up 225%) reduced profitability.
 
 **💡 Outcomes & Strategic Recommendations:**
+
 ✅ Double Down on High-Growth Markets
 Capitalize on India's and China’s expansion, while tackling rising COGS to protect margins.
+
 ✅ Control Costs in Low-Margin Regions
 Investigate pricing, logistics, and supplier contracts in Germany and Austria.
+
 ✅ Seasonal Planning
 Align inventory and promotions with strong Q4 demand for revenue maximization.
+
 ✅ Recover Gross Margins
 Focus on margin recovery strategies in ANZ/ROA through operational reviews and pricing optimization.
 
