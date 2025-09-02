@@ -43,9 +43,13 @@ AtliQ Hardware Financial Analysis Report: Unlocking Strategic Insights
 I conducted a comprehensive financial analysis for AtliQ Hardware, leveraging **Advanced Excel (Power Query, Power Pivot, and Pivot Tables)** to dissect their 2019–2021 performance. The goal was to transform raw financial data into actionable insights that support strategic, data-driven decision-making.
 
 **🔍 Problem Statement:**
+
 AtliQ Hardware needed financial clarity on:
+
 ➡️ Profit & Loss by Country – Identify top-performing and underperforming markets.
+
 ➡️ P&L by Month & Fiscal Year – Uncover seasonal patterns and year-over-year trends.
+
 ➡️Gross Margin % by Quarter – Track profitability shifts across regions and timeframes.
 
 **📈 Key Insights:**
