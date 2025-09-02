@@ -11,7 +11,9 @@ I completed a sales performance analysis project during the Codebasics Data Anal
 ➡️ Identify top-selling products to prioritize inventory and marketing efforts.
 
 ➡️ Recognize top-performing customers to strengthen partnerships and drive loyalty.
+
 ➡️ Analyze YoY sales growth to understand market trends and operational efficiency.
+
 ➡️ Compare net sales vs. targets to uncover gaps and realign strategies for underperforming regions.
 
 **📌 Key Insights:**
