@@ -8,6 +8,7 @@ AtliQ Hardware Sales Performance Analysis: Unlocking Growth Insights with Excel 
 I completed a sales performance analysis project during the Codebasics Data Analytics Bootcamp **using Advanced Excel (Power Query, Power Pivot, Pivot Tables)**. The goal was to help AtliQ Hardware gain actionable insights from its 2019–2021 sales data.
  
 **🔍 Problem Statement**
+
 ➡️ Identify top-selling products to prioritize inventory and marketing efforts.
 
 ➡️ Recognize top-performing customers to strengthen partnerships and drive loyalty.
